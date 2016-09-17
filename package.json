@@ -23,7 +23,7 @@
     "test": "grunt validate --verbose"
   },
   "engines": {
-    "node": "4.2.4"
+    "node": "4.2.3"
   },
   "dependencies": {
     "ansi-regex": "2.0.0",
